@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">atividade_1</string>
+    <string name="txt_first_num">primeiro valor</string>
+    <string name="txt_second_num">segundo valor</string>
+    <string name="button_sum">somar</string>
+    <string name="txt_result">resultado: </string>
+</resources>
