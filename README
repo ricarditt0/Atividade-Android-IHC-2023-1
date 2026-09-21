@@ -1,1 +1,16 @@
+# Estudo sobre tratamento de dados e uso da bibliotetaca Scikit-learn para criar modelos preditivos 
+## Destrição:
+Nesta atividade usamos tecnicas do machime learning para classicar se as transaçoes de cartão de credito são fraudulentas.
 
+## objetivo:
+Desenvolver um modelo preditivo usando python e Scikti_learn em conjunto com o dataset creditcard.csv, comumente usado para estudos de machine learning,
+que seja capaz de avalir e decidir se uma transação é fraudulenta.
+
+## Dataset:
+O dataset utilizado pode ser encontrado em [creditcard](https://storage.googleapis.com/download.tensorflow.org/data/creditcard.csv)
+
+## Tecnologias usadas:
+* Python
+* Scikit-learn
+* Pandas 
+* Numpy
